@@ -4,8 +4,7 @@ namespace ClassLibraryDates
 {
     public class Class1
     {
-<<<<<<< HEAD
-            //Metodi, joka kertoo opiskelun aloitusajan ja arvioidun opiskeluajan perusteella onko opiskelu myöhässä vai ei.
+
         static void studiesOnTimeOrNot(DateTime startLearningDate, double estimatedTimeToMaster)
         {
 
@@ -22,7 +21,7 @@ namespace ClassLibraryDates
         }
 
 
-=======
+
         public static void FuturePast()
         {
             bool futureOrPast;
@@ -32,7 +31,7 @@ namespace ClassLibraryDates
             else
                 futureOrPast = false;
         }
->>>>>>> ms
+
     }
 }
 
